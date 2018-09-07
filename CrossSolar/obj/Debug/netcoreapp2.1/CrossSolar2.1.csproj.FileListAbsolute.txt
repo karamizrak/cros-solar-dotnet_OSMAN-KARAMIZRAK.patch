@@ -1,0 +1,14 @@
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.csproj.CoreCompileInputs.cache
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.RazorAssemblyInfo.cache
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.RazorAssemblyInfo.cs
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.AssemblyInfoInputs.cache
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.AssemblyInfo.cs
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\bin\Debug\netcoreapp2.1\CrossSolar2.1.deps.json
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\bin\Debug\netcoreapp2.1\CrossSolar2.1.runtimeconfig.json
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\bin\Debug\netcoreapp2.1\CrossSolar2.1.runtimeconfig.dev.json
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\bin\Debug\netcoreapp2.1\CrossSolar2.1.dll
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\bin\Debug\netcoreapp2.1\CrossSolar2.1.pdb
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.RazorTargetAssemblyInfo.cache
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.dll
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.pdb
+C:\Users\osman.karamizrak\Source\repos\CrossSolar2.1\CrossSolar2.1\obj\Debug\netcoreapp2.1\CrossSolar2.1.csprojAssemblyReference.cache
